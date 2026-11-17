@@ -4,6 +4,7 @@
   "name": "Greek letters",
   "version": "1.0.0",
   "author": "LucasDavid",
+  "license": "MIT",
   "description": "Search and type Greek letters used in maths, physics, and engineering",
   "kinds": [
     "overlay"
